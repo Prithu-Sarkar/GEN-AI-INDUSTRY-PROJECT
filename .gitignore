@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.pyc
+dist/
+build/
+venv/
+env/
+
+# Large model files
+*.pkl
+*.npy
+
+# Artifacts & logs
+Artifacts/
+logs/
+mlruns/
+prediction_output/
+
+# Data files
+Network_Data/*.csv
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Secrets
+.env
+
+# Docker
+Dockerfile
+.github/
+
+# Valid data
+valid_data/
+
+# Specific files
+NETWORK SECURITY/Networksecurity/test_mongodb.py
+NETWORK SECURITY/Networksecurity/Network_Data/ 
