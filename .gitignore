@@ -1,0 +1,32 @@
+# Artifacts & Model Files (both project folders)
+Global-Mobility-Application-Analyzer/artifact/
+Global-Mobility_Application_Analyzer/artifact/
+**/artifact/
+**/mlruns/
+**/logs/
+**/*.pkl
+**/*.npy
+**/*.log
+
+# Large data files
+**/notebooks/Visadataset.csv
+**/notebooks/visa.csv
+**/notebooks/boston_data_drift_report.html
+**/notebooks/mongoDB_test.ipynb
+
+# Python
+**/__pycache__/
+**/*.pyc
+**/*.pyo
+**/*.egg-info/
+**/dist/
+**/build/
+**/.env
+**/.venv/
+**/venv/
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

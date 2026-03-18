@@ -1,0 +1,31 @@
+1. Learning Outcome:
+   - Master the end-to-end Machine Learning lifecycle from data ingestion to deployment.
+   - Learn to write modular, production-grade Python code for ML projects.
+   - Understand MLOps principles including automated pipelines and component-based architecture.
+   - Gain hands-on experience with AWS Cloud services (EC2, ECR, S3, IAM).
+   - Implement CI/CD pipelines using GitHub Actions for automated deployment.
+   - Learn how to handle Data Drift and Model Monitoring.
+   - Build and deploy scalable APIs using FastAPI and Docker.
+
+2. What you will build:
+   - A robust "Global Mobility Application Analyzer" capable of predicting US Visa approval chances.
+   - An automated Training Pipeline that handles data ingestion, validation, transformation, and model training.
+   - A Prediction Pipeline exposed via a FastAPI web application for real-time user predictions.
+   - A fully automated deployment workflow that builds Docker images and deploys them to AWS EC2 whenever code is pushed to GitHub.
+
+3. Prerequisite:
+   - Proficiency in Python programming.
+   - Fundamental understanding of Machine Learning concepts and algorithms (specifically Classification).
+   - Basic familiarity with Git and version control.
+   - An AWS account (free tier is sufficient) and basic cloud knowledge is recommended.
+
+4. Technologies:
+   - Programming Language: Python
+   - Web Framework: FastAPI
+   - Database: MongoDB
+   - Machine Learning Libraries: Scikit-learn, Pandas, NumPy, XGBoost/CatBoost (if used)
+   - MLOps & Monitoring: Evidently AI (for Data Drift)
+   - Containerization: Docker
+   - CI/CD: GitHub Actions
+   - Cloud Platform: AWS (EC2, ECR, S3, IAM)
+   - Frontend: HTML/CSS, Jinja2 Templates
