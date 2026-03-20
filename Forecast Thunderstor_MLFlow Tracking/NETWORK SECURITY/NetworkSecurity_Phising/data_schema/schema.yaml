@@ -1,0 +1,62 @@
+having_IP_Address:
+  type: int
+URL_Length:
+  type: int
+Shortining_Service:
+  type: int
+having_At_Symbol:
+  type: int
+double_slash_redirecting:
+  type: int
+Prefix_Suffix:
+  type: int
+having_Sub_Domain:
+  type: int
+SSLfinal_State:
+  type: int
+Domain_registeration_length:
+  type: int
+Favicon:
+  type: int
+port:
+  type: int
+HTTPS_token:
+  type: int
+Request_URL:
+  type: int
+URL_of_Anchor:
+  type: int
+Links_in_tags:
+  type: int
+SFH:
+  type: int
+Submitting_to_email:
+  type: int
+Abnormal_URL:
+  type: int
+Redirect:
+  type: int
+on_mouseover:
+  type: int
+RightClick:
+  type: int
+popUpWidnow:
+  type: int
+Iframe:
+  type: int
+age_of_domain:
+  type: int
+DNSRecord:
+  type: int
+web_traffic:
+  type: int
+Page_Rank:
+  type: int
+Google_Index:
+  type: int
+Links_pointing_to_page:
+  type: int
+Statistical_report:
+  type: int
+Result:
+  type: int

@@ -1,0 +1,22 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Artifacts & models (large files — pull from Drive manually)
+Artifacts/
+final_model/
+mlruns/
+logs/
+prediction_output/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Data
+Network_Data/*.csv

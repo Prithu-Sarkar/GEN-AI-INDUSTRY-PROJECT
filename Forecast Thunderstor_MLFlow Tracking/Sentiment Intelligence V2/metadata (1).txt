@@ -1,0 +1,27 @@
+1. Learning Outcome:
+   - Master the end-to-end Machine Learning lifecycle for Natural Language Processing (NLP) tasks.
+   - Learn to build and manage reproducible ML pipelines using DVC (Data Version Control).
+   - Understand how to deploy ML models as RESTful APIs using Flask.
+   - Gain hands-on experience in developing Chrome Extensions to interact with backend APIs.
+   - Implement text preprocessing techniques including TF-IDF vectorization.
+   - Learn how to integrate a frontend application (Browser Plugin) with a Machine Learning backend.
+
+2. What you will build:
+   - A "Social Video Audience Sentiment Intelligence" system capable of analyzing sentiment from YouTube comments.
+   - An automated ML Pipeline that handles data ingestion, preprocessing, and model training (LightGBM).
+   - A Prediction API exposed via a Flask web application for real-time sentiment analysis.
+   - A Chrome Extension that allows users to analyze sentiment directly on YouTube video pages.
+
+3. Prerequisite:
+   - Proficiency in Python programming.
+   - Fundamental understanding of Machine Learning concepts (Classification) and NLP.
+   - Basic familiarity with Git and command-line tools.
+   - Basic knowledge of HTML/JavaScript is helpful for the Chrome Extension part.
+
+4. Technologies:
+   - Programming Language: Python, JavaScript (for Chrome Extension)
+   - Web Framework: Flask
+   - Machine Learning Libraries: Scikit-learn, LightGBM, Pandas, NumPy
+   - MLOps & Version Control: DVC (Data Version Control), Git
+   - Frontend: HTML, CSS, JavaScript (Chrome Extension Manifest V3)
+   - Text Processing: NLTK (if used), Scikit-learn (TF-IDF)
