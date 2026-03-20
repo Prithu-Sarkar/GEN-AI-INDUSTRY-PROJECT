@@ -1,0 +1,25 @@
+App DEMO : https://thunderstrom-forecast.streamlit.app/
+
+
+Youtube thunderstrom video :  https://www.youtube.com/watch?v=jfdX1nW-14A
+
+Github Project Link: https://github.com/d-hackmt/thunderstrom-forecast
+
+Python  : https://www.python.org/
+
+vs code  : https://code.visualstudio.com/
+
+Anigravity : https://antigravity.google/
+
+UV : https://docs.astral.sh/uv/
+
+Git download : https://git-scm.com/
+
+Github login : https://github.com/login
+
+Ml FLow : https://mlflow.org/
+
+Fast api : https://fastapi.tiangolo.com/
+
+Streamlit cloud : https://streamlit.io/cloud
+
