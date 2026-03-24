@@ -1,0 +1,12 @@
+[1] Issue        : Lack of engaging thumbnails
+     Why it hurts : This lowers watch-time and click-through rates, as viewers are less likely to be drawn in by a boring or uninteresting thumbnail
+     Fix          : Create eye-catching and attention-grabbing thumbnails that showcase the iconic song and Rick Astley's charismatic performance
+
+[2] Issue        : Insufficient video descriptions and tags
+     Why it hurts : This hurts video discoverability and search engine optimization, making it harder for new viewers to find the video
+     Fix          : Optimize video descriptions and tags with relevant keywords, such as the song title, artist name, and genre, to improve video visibility and search rankings
+
+[3] Issue        : No clear call-to-action or engagement strategy
+     Why it hurts : This reduces audience engagement and interaction, as viewers are not encouraged to like, comment, or subscribe
+     Fix          : Add a clear call-to-action at the end of the video, such as asking viewers to like and subscribe, and engage with the audience through comments and social media to build a loyal fan base
+
