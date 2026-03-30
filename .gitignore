@@ -39,4 +39,6 @@ Thumbs.db
 **/*.flac
 **/data/
 **/*.csv
-**/notebooks/*.ipynb
+
+# ✅ Allow ALL notebooks globally
+!**/*.ipynb
