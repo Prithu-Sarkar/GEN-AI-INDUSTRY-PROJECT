@@ -30,3 +30,13 @@ Global-Mobility_Application_Analyzer/artifact/
 .idea/
 .DS_Store
 Thumbs.db
+
+# AI-Powered Heart Murmur Detection System
+**/*.h5
+**/*.wav
+**/*.mp3
+**/*.ogg
+**/*.flac
+**/data/
+**/*.csv
+**/notebooks/*.ipynb
