@@ -5,14 +5,15 @@ Global-Mobility_Application_Analyzer/artifact/
 **/mlruns/
 **/logs/
 **/*.pkl
-**/*.npy
 **/*.log
+
+# ✅ Allow .npy EXCEPT the large ones if needed
+**/*.npy
 
 # Large data files
 **/notebooks/Visadataset.csv
 **/notebooks/visa.csv
 **/notebooks/boston_data_drift_report.html
-**/notebooks/mongoDB_test.ipynb
 
 # Python
 **/__pycache__/
@@ -40,5 +41,6 @@ Thumbs.db
 **/data/
 **/*.csv
 
-# ✅ Allow ALL notebooks globally
+# ✅ Allow ALL notebooks globally (must be at the bottom)
 !**/*.ipynb
+!**/notebooks/mongoDB_test.ipynb
